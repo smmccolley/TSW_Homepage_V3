@@ -1,16 +1,16 @@
 
-            /*Navigation*/
+ /*Navigation*/
 
-            .primaryNav {
-                background-image: url(../images-folder/buckhead_redefined.JPG);
-                background-repeat: no-repeat;
-                background-size: cover;
-                height: 800px;
-            }
+    .primaryNav {
+        background-image: url(../images-folder/buckhead_redefined.JPG);
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 800px;
+        }
             
-            .inline-block nav {
-                margin-top: 20px;
-                display: inline-block;
+    .inline-block nav {
+         margin-top: 20px;
+        display: inline-block;
                 color: white;
                 padding: 60px;
                 vertical-align: center;
