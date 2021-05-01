@@ -1,0 +1,224 @@
+
+            /*Navigation*/
+
+            .primaryNav {
+                background-image: url(../images-folder/buckhead_redefined.JPG);
+                background-repeat: no-repeat;
+                background-size: cover;
+                height: 800px;
+            }
+            
+            .inline-block nav {
+                margin-top: 20px;
+                display: inline-block;
+                color: white;
+                padding: 60px;
+                vertical-align: center;
+            }
+                
+            .navButton {
+                display: inline-block;
+                padding: 30px;
+                font-size: 45;
+                font-weight: 700;
+                font-family: 'Poppins', sans-serif;
+                color: white;
+                vertical-align: center;
+            }
+            .logo {
+                padding: 60px;
+                display: inline-block;
+                vertical-align: center;
+                margin-right: 300px;
+            }
+            
+            /*Studios & Blog*/
+            .TSWideas {
+                float: left;
+                text-align: left;
+                font-weight: 700;
+                font-size: 45;
+                font-family: 'Poppins', sans-serif;
+                width: 800px;
+                margin-left: 15%;
+                margin-top: 5%;
+                }
+            .buttonContainer {
+                vertical-align: middle;
+                display: inline-block;
+                height: 400px;
+                width: 30%;
+                margin-top: 5%; 
+                top: 50%;
+            }
+            .PLG {
+                display: inline-block;
+                background-color: gray;
+                color: white;
+                font-size: 45;
+                font-weight: 500;
+                font-family: 'Poppins', sans-serif;
+                text-align: center;
+                margin-left: 3%;
+                margin-right: 3%;
+             
+            }
+            .ARCH {
+                display: inline-block;
+                background-color: gray;
+                color: white;
+                font-size: 45;
+                font-weight: 500;
+                font-family: 'Poppins', sans-serif;
+                text-align: center;
+                margin-right: 3%;
+            
+            }
+            .LA {
+                display: inline-block;
+                background-color: gray;
+                color: white;
+                font-size: 45;
+                font-weight: 500;
+                font-family: 'Poppins', sans-serif;
+                text-align: center;
+                margin-right: 0%;
+            }
+            .Recess {
+                display: inline-block;
+                width: 85%;
+                margin-left: 15%;
+            }
+            .BlogPost {
+                display: inline-block;
+                width: 50%;
+                margin-top: 5%;
+            }
+            .BlogName p {
+                display: inline-block;
+                font-family:'Poppins', sans-serif;
+                font-size: 35;
+                font-weight: 700;
+            }
+            .BlogDesc p {
+                display: inline-block;
+                font-family: 'Poppins', sans-serif;
+                font-size: 16;
+                font-weight: 200;
+                width: 600px;
+            }
+            .readMore {
+                display: inline-block;
+                font-family: 'Poppins', sans-serif;
+                font-size: 16;
+                font-weight: 700;
+                text-decoration: underline;
+                border-color: none;
+                border-style: none;
+                padding: 1px;
+                background-color: transparent;
+                height: 5px;
+            }
+            .valueCommunity {
+                display: inline-block;
+                font-family:'Poppins', sans-serif;
+                padding: 3%;
+                margin-left: 15%
+            }
+            .valueName {
+                font-size: 35;
+                font-weight: 700;
+                width: 1200px;
+            }
+            .valueDesc {
+                font-size: 16px;
+                font-weight: 200;
+                width: 1000px;
+            }
+            /*Featured Projects*/
+            .projectHeadline {
+                display: inline-block;
+                font-family: 'Poppins', sans-serif;
+                font-size: 35;
+                font-weight: 700;
+                width: 800px;
+                margin-left: 15%;
+                padding: 3%;
+                height: 15px;
+                color: #187AA5;
+            }
+            .projectPrev {
+                position: relative;
+                padding: 3%;
+                width: 94%;
+            }
+            
+            .projectName {
+                position: absolute;
+                font-family: 'Poppins', sans-serif;
+                font-size: 25;
+                font-weight: 700;
+                width: 800px;
+                Margin-left: 120px;
+                bottom: 60px;
+                color: white
+            }
+            .projectHeadline2 {
+                display: inline-block;
+                font-family: 'Poppins', sans-serif;
+                font-size: 35;
+                font-weight: 700;
+                width: 800px;
+                margin-left: 40%;
+                padding: 3%;
+                color: #187AA5;
+            }
+            
+            
+            /*Footer*/
+            .footer{
+                background-color: #187AA5;
+                width: 94%;
+                padding: 3%;
+                height: 300px;
+            }
+            .sayHello {
+                font-family: 'Poppins', sans-serif;
+                font-size: 45;
+                font-weight: 700px;
+                color: #C1D959;
+                margin-bottom: 15px;
+                margin-left: 120px;
+            }
+            .footerContainer {
+                display: inline-block;
+            }
+            .footerTitle {
+                font-family: 'Poppins', sans-serif;
+                margin-left: 120px;
+                display: inline-block;
+            }
+            .team {
+                font-family: 'Poppins', sans-serif;
+                font-size: 35;
+                font-weight: 700;
+                width: 500px;
+                color: white;
+            }
+            .designTeam {
+                color: white;
+                font-family: 'Poppins', sans-serif;
+                font-size: 16;
+                font-weight: 300;
+                width: 500px;
+            }
+            .whitePrimary {
+                font-family: 'Poppins', sans-serif;
+                font-size: 16;
+                font-weight: 200;
+                border: 1.5px solid white;
+                background-color: transparent;
+                color: white;
+                width: 200px;
+            }
+            
