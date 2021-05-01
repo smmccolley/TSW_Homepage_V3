@@ -10,14 +10,14 @@
             
     .inline-block nav {
          margin-top: 20px;
-        display: inline-block;
-                color: white;
-                padding: 60px;
-                vertical-align: center;
+         display: inline-block;
+         color: white;
+         padding: 60px;
+         vertical-align: center;
             }
                 
-            .navButton {
-                display: inline-block;
+        .navButton {
+            display: inline-block;
                 padding: 30px;
                 font-size: 45;
                 font-weight: 700;
@@ -53,7 +53,7 @@
             }
             .PLG {
                 display: inline-block;
-                background-color: gray;
+                background-color: #187AA5;
                 color: white;
                 font-size: 45;
                 font-weight: 500;
@@ -65,7 +65,7 @@
             }
             .ARCH {
                 display: inline-block;
-                background-color: gray;
+                background-color: #187AA5;
                 color: white;
                 font-size: 45;
                 font-weight: 500;
@@ -76,7 +76,7 @@
             }
             .LA {
                 display: inline-block;
-                background-color: gray;
+                background-color: #187AA5;
                 color: white;
                 font-size: 45;
                 font-weight: 500;
